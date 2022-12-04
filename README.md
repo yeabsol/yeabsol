@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi, I'm Yeabsira Solomon</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 <hr/>
 
 <h3 align="left">Languages, Tools, Frameworks and Operating Systems</h3>
